@@ -1,0 +1,7 @@
+C:\Users\Braulio Muñoz\source\repos\XSoluciones\XSoluciones\bin\Debug\XSoluciones.exe.config
+C:\Users\Braulio Muñoz\source\repos\XSoluciones\XSoluciones\bin\Debug\XSoluciones.exe
+C:\Users\Braulio Muñoz\source\repos\XSoluciones\XSoluciones\bin\Debug\XSoluciones.pdb
+C:\Users\Braulio Muñoz\source\repos\XSoluciones\XSoluciones\obj\Debug\XSoluciones.csproj.CoreCompileInputs.cache
+C:\Users\Braulio Muñoz\source\repos\XSoluciones\XSoluciones\obj\Debug\XSoluciones.exe
+C:\Users\Braulio Muñoz\source\repos\XSoluciones\XSoluciones\obj\Debug\XSoluciones.pdb
+C:\Users\Braulio Muñoz\source\repos\XSoluciones\XSoluciones\obj\Debug\XSoluciones.csprojAssemblyReference.cache
